@@ -1,0 +1,38 @@
+var data = `[ {
+  
+  "movieName": "The Godfather",
+  "image": "./img/Godfather.jpg",
+  "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+  "likes": 42
+},
+{
+  "movieName": "The Shawshank Redemption",
+    "image": "./img/Redemption.jpg",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "likes": 77
+},
+{
+  "movieName": "The Dark Knight",
+      "image": "./img/DarkKnight.jpg",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "likes": 89
+},
+{
+  "movieName": "12 Angry Men",
+        "image": "./img/12AngryMen.jpg",
+        "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+        "likes": 22
+},
+{
+      "movieName": "Schindler's List",
+          "image": "./img/List.jpg",
+          "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "likes": 61
+},
+{
+         "movieName": "Pulp Fiction",
+            "image": "./img/Pulp.png",
+            "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "likes": 45
+}
+]`;
